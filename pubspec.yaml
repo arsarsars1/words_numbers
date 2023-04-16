@@ -1,7 +1,6 @@
 name: words_numbers
 description: WordsNumbers is a Flutter plugin that helps convert text numbers to their corresponding numeric values.
 version: 0.0.1
-author: arsarsars1@gmail.com
 homepage: https://github.com/arsarsars1/words_numbers.git
 
 environment:
