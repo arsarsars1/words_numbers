@@ -1,3 +1,8 @@
-## [0.0.1] - TODO: Add release date.
+## [0.0.1] - TODO: First Release
 
-* TODO: Describe initial release.
+* TODO: Plugin created
+
+## [0.0.2] - TODO: Null Safety
+
+* TODO: Project updated to support Null Safety
+
