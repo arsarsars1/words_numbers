@@ -26,7 +26,7 @@ To use this package :
 dependencies:
   flutter:
     sdk: flutter
-  words_numbers: ^0.0.1
+  words_numbers: ^0.0.2
 ```
 
 Then, import the package in your Dart code:
