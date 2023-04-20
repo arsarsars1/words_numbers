@@ -28,7 +28,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  final textNumber = "hello world one \n How are you two";
+  final textNumber = "hello world OnE \n How are you two";
   final numberText = "hello world 1234567";
   final number = 1234567;
 

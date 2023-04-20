@@ -46,7 +46,7 @@ class WordsNumbers {
 
     // convert each word to a number or keep it as is if it's not numeric
     final resultWords = words.map((word) {
-      final number = _wordsNumber[word];
+      final number = _wordsNumber[word.toLowerCase()];
       return number != null ? number.toString() : word;
     }).toList();
 
