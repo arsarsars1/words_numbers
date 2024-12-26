@@ -10,3 +10,7 @@
 
 * TODO: Code fixes and improvements
 
+## [0.0.4] - Flutter upgrade
+
+* Code upgrade to latest flutter
+
